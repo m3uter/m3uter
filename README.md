@@ -65,3 +65,71 @@ A physical m3u file, Xtreme codes, or a link to your M3U file can be uploaded.
 
 M3U Urls are tested for Xtreme codes compatibility and converted to Xtreme codes automatically if possible.
 
+![image](https://github.com/user-attachments/assets/cf130b59-3b08-47a3-a4cf-993ba5f527b4)
+
+### Editor
+
+Left column will contain all detected groups.  By selecting a group, all the channels within that group will be shown in the middle column.
+
+The search box will also be enabled.  Alternatively, select "ALL GROUPS" to perform global searches.
+
+**Note**: Search at the moment is single term.  Wildcard searches will be implemented soon.
+
+![image](https://github.com/user-attachments/assets/53fd886d-a58a-4103-9799-a1bcb32ebddd)
+
+Selecting a channel (in middle column) will display EPG search form, typing in a channel name will search through the EPG and present options (if found).
+
+![image](https://github.com/user-attachments/assets/8da9052f-d9eb-4fe7-82c3-a1038de3aaf3)
+
+Selecting an EPG item will map the EPG channel to the selected Channel:
+
+![image](https://github.com/user-attachments/assets/b1421efc-867c-4528-aa12-4c7d19268f17)
+
+Press the >> button to add to your Edited List, channels added to Edited List will appear in the "MyFavorites" group.
+
+![image](https://github.com/user-attachments/assets/4679fdb1-435c-4b2b-a2ba-0903d58936d1)
+
+Drag and drop channels in the Edited List to reorder.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
