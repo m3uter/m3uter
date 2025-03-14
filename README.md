@@ -1,6 +1,6 @@
 [![image](https://github.com/user-attachments/assets/bde94e84-1db4-49d9-91e6-6939857a96e4)](https://app.m3uter.com/)
 
-# A simple (hopefully) easy to use M3U editor and EPG assignment tool.
+# A (hopefully) simple and easy to use M3U editor and EPG assignment tool
 
 A few ways to interact with this project:
 - Here (of course)
@@ -19,7 +19,7 @@ In effect, it's a very early alpha release.
 
 Any feedback would be welcomed and appreciated.
 
-Please open an [!issue](https://github.com/m3uter/m3uter/issues) here, post on the [!subreddit](https://www.reddit.com/r/m3uter_com/), or comment on [!youtube](https://www.youtube.com/@M3Uter).
+Please open an [issue](https://github.com/m3uter/m3uter/issues) here, post on the [subreddit](https://www.reddit.com/r/m3uter_com/), or comment on [youtube](https://www.youtube.com/@M3Uter).
 
 ## Legal Disclaimer: Unauthorized Streaming of Copyrighted Content
 
