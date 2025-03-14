@@ -102,8 +102,11 @@ Press the >> button to add to your Edited List, channels added to Edited List wi
 Drag and drop channels in the Edited List to reorder.
 
 
+## Output to player
 
+Load your list output link and EPG to your favorite IPTV player:
 
+![image](https://github.com/user-attachments/assets/4447ce2c-d93b-48a6-8fbb-4adfc1c9f1be)
 
 
 
