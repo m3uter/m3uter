@@ -65,7 +65,15 @@ A physical m3u file, Xtreme codes, or a link to your M3U file can be uploaded.
 
 M3U Urls are tested for Xtreme codes compatibility and converted to Xtreme codes automatically if possible.
 
-![image](https://github.com/user-attachments/assets/cf130b59-3b08-47a3-a4cf-993ba5f527b4)
+![image](https://github.com/user-attachments/assets/cca37dcc-a128-45a1-89e4-ff63e315c88b)
+
+Upon uploading a M3U file, the app automatically maps any matches in your list and the EPG.  It also attempts to automap all sports League channels.
+
+**There are a few output links to consider.**
+
+- M3U (Favs Only) - This link only contains your edited list
+- EPG - This link contains all channels mapped to the EPG
+- Link Below your Edited M3 list item - This is a complete reworked M3U file, since the app assigns channel ids where one doesn't exist
 
 ### Editor
 
@@ -78,6 +86,8 @@ The search box will also be enabled.  Alternatively, select "ALL GROUPS" to perf
 ![image](https://github.com/user-attachments/assets/53fd886d-a58a-4103-9799-a1bcb32ebddd)
 
 Selecting a channel (in middle column) will display EPG search form, typing in a channel name will search through the EPG and present options (if found).
+
+**Note**: Search at the moment is single term.  Wildcard searches will be implemented soon.
 
 ![image](https://github.com/user-attachments/assets/8da9052f-d9eb-4fe7-82c3-a1038de3aaf3)
 
