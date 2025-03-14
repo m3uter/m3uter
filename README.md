@@ -53,3 +53,15 @@ At the moment, the EPG sourced from https://epgshare01.online/, using their full
 
 Future plans will allow uploading your own EPGs.
 
+## How to Use
+
+### Register (requires valid email)
+
+Registration with a valid email is required, check your spam box if you don't see the email confirmnation.
+
+### Load your lists 
+
+A physical m3u file, Xtreme codes, or a link to your M3U file can be uploaded.
+
+M3U Urls are tested for Xtreme codes compatibility and converted to Xtreme codes automatically if possible.
+
